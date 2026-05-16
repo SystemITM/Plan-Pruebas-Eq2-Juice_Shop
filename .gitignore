@@ -1,0 +1,25 @@
+# Entorno virtual de Python
+.venv/
+venv/
+env/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Reportes generados
+reports/
+htmlcov/
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# VS Code opcional
+.vscode/
+
+# WebDriver cache local si existe dentro del proyecto
+.wdm/
